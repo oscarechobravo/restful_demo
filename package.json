@@ -1,0 +1,16 @@
+{
+    "name":"restful_demo",
+    "description":"oliver's first stab at something restful",
+    "version":"0.1a",
+    "author":{
+        "name":"Oliver Bates",
+        "email":"oliver.bates@gmail.com"
+    },
+    "license":"MIT","repository":{
+        "type":"git",
+        "url":"https://github.com/oscarechobravo/restful_demo"
+    },
+    "keywords":["api","restful","demo"] 
+
+
+}
